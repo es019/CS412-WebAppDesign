@@ -11,7 +11,7 @@
 <body>
 	<br>
 	<figure>
-	<img src="source_pic\My Post.png" alt="SAMPLE TEXT" title="Welcome to my resume" height="450" align="center">
+	<img src="source_pic\My Post.png" alt="SAMPLE TEXT" title="Welcome to my resume" witdh="100%" align="center">
 	</figure>
 	<h1 align="center" name="top">Ešref Mehanović - Resume</h1><br><!--TITLE-->
 
