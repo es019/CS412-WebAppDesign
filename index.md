@@ -20,15 +20,15 @@
 	<h1 align="center">Table of contents</h1><!--Contains all the contents on the web page-->
 	<blockquote>
 	<ol>
-		<li><a href=#bio>Bio</a></li>
-		<li><a href=#edu>Education</a></li>
-		<li><a href=#ca>Club activities</a></li>
-		<li><a href=#hb>Hobbies</a></li>
-		<li><a href=#we>Work experience</a></li>
-		<li><a href=#lk>Language knowledge</a></li>
-		<li><a href=#mys>My schedule</a></li>
-		<li><a href=#g>Gallery</a></li>
-		<li><a href=#cont>Contacts</a></li>
+	<li><a href=#bio>Bio</a></li>
+	<li><a href=#edu>Education</a></li>
+	<li><a href=#ca>Club activities</a></li>
+	<li><a href=#hb>Hobbies</a></li>
+	<li><a href=#we>Work experience</a></li>
+	<li><a href=#lk>Language knowledge</a></li>
+	<li><a href=#mys>My schedule</a></li>
+	<li><a href=#g>Gallery</a></li>
+	<li><a href=#cont>Contacts</a></li>
 	</ol>	
 	</blockquote>
 
@@ -178,7 +178,7 @@ Write your mail here.
 		<input type="submit" value="Send">          <input type="reset" value="Undo">
 
 	</form>
-	<p><a href=#top>Go to the top</a></p>
+	<a href=#top>Go to the top</a>
 	</blockquote>
 
 </body>
